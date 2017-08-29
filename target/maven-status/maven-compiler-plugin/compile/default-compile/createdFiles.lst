@@ -1,0 +1,5 @@
+com\fileupload\constants\MasterConstants.class
+com\fileupload\controller\FileUploadController.class
+com\fileupload\controller\GlobalExceptionHandler.class
+com\fileupload\service\FileUpload.class
+com\fileupload\SpringBootWebApplication.class
